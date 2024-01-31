@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827136844256",
+    "project_id": "formationgroupe6janv",
+    "storage_bucket": "formationgroupe6janv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827136844256:android:6d5ae5c4401c7d95138b85",
+        "android_client_info": {
+          "package_name": "com.example.formationgroupe6janv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbMOgJkXYjEoVAgjEXdbqzJBZGzlijas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
