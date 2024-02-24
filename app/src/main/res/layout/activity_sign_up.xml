@@ -46,6 +46,7 @@
         android:padding="15sp">
 
         <EditText
+            android:id="@+id/fullNameSignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Full Name"
@@ -58,6 +59,7 @@
             android:inputType="text"/>
 
         <EditText
+            android:id="@+id/emailSignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="E-mail"
@@ -71,6 +73,7 @@
 
 
         <EditText
+            android:id="@+id/cinSignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="CIN"
@@ -84,6 +87,7 @@
 
 
         <EditText
+            android:id="@+id/phoneSignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Phone number"
@@ -97,6 +101,7 @@
 
 
         <EditText
+            android:id="@+id/passwordSignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
@@ -112,6 +117,7 @@
 
 
         <Button
+            android:id="@+id/btnSignUp"
             android:layout_width="130dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -121,6 +127,7 @@
             android:layout_margin="15sp"/>
 
         <TextView
+            android:id="@+id/goToSignIn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Already have an account !"
