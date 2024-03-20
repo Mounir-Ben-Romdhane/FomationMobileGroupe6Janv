@@ -60,6 +60,7 @@
             android:textStyle="bold" />
 
         <EditText
+            android:id="@+id/emailSignIn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="23sp"
@@ -83,6 +84,7 @@
             />
 
         <EditText
+            android:id="@+id/passwordSignIn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="23sp"
@@ -97,6 +99,7 @@
             />
 
         <CheckBox
+            android:id="@+id/rememberMe"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Remember me !"
@@ -107,6 +110,7 @@
             android:textColor="@color/colorApp"/>
 
         <TextView
+            android:id="@+id/goToForgetPassword"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Forget password !"
@@ -117,6 +121,7 @@
             android:layout_margin="10sp"/>
 
         <Button
+            android:id="@+id/btnSignIn"
             android:layout_width="130dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
